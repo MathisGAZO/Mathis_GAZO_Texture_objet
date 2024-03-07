@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mathi/Desktop/UE/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HQ/JFSCDHM3DQXDWPJD8RHGWV.uasset",
+				"C:/Users/mathi/Desktop/UE/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/R4/G3TDMETDVBP7MCIA23TAFA.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/fbx/SM_securitycam_MG_verre.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/fbx/M_verre.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/fbx/SM_securitycam_MG_camera.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/fbx/M_camera.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_cam_BC.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_camera_N.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_camera_O.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_verre_O.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_verre_A.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_camera_A.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/material/M_master_Opaque.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/material/MI_beton.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/material/MI_rocher.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/material/MI_plastique.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/R4/G3TDMETDVBP7MCIA23TAFA.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/83/U6ASZMO59128TLS2IYI9DE.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/JA/XW37ITYNBP286EPQF7T7LW.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/H1/I6AT9RXIKM0URKN0R1YJNQ.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/RY/CLWZYJ6NZBTIPXTBN6CQVX.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/OK/6Q1P5MFNC2MGJJJ65AZ805.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/H0/M0CEQ5GPAN99MF4OS42GQE.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/XI/706YVVZIFZGMSBR6UK1C74.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/43/YFJ38S2FBPQ01MLL0JA67A.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/ENVIRONNEMENTAL/NewMaterial.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/material/test.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_camera_M.uasset",
+				"C:/Users/mathi/Desktop/Essaie_UE/Content/objet/texture/T_verre_BC.uasset"
+			]
+		}
+	]
+}
